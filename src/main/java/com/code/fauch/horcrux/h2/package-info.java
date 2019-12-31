@@ -13,6 +13,8 @@
  * limitations under the License.
  */
 /**
+ * Main implementations of the SPI interfaces.
+ * 
  * @author c.fauch
  *
  */

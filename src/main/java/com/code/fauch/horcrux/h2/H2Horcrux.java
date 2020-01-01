@@ -23,7 +23,7 @@ import org.h2.jdbcx.JdbcConnectionPool;
 import com.code.fauch.horcrux.spi.IHorcrux;
 
 /**
- * horcrux implementations that provides a JDBC connection pool based on the simple one
+ * horcrux implementation that provides a JDBC connection pool based on the simple one
  * included in H2.
  * 
  * @author c.fauch
